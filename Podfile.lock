@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - GKMessageTool (1.0.5):
+    - MBProgressHUD
+  - MBProgressHUD (1.2.0)
+  - ReactiveObjC (3.1.1)
+  - SWKit (1.2.4):
+    - AFNetworking
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - GKMessageTool
+  - ReactiveObjC
+  - SWKit
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - GKMessageTool
+    - MBProgressHUD
+    - ReactiveObjC
+    - SWKit
+    - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  GKMessageTool: fcf46cca30f62eaebb8fea288c9452f3682645f2
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SWKit: 9a0f7cdfb3ccd2f62a7dbc60143ea04c4a83417d
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 4007f7d393d46b97dae5323df48ed4f1cd476966
+
+COCOAPODS: 1.9.3
